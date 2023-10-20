@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#comentario por las dudas
+sudo ss -ltpn
